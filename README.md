@@ -1,2 +1,3 @@
 # Git_demo
-My first Git repository 
+This is just me experimenting on Git
+
